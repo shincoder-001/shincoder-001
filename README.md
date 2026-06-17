@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" />
+  <img src="./assets/banner.gif" width="100%" />
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=FFEA00&center=true&vCenter=true&width=1000&lines=+AI+Engineer+;+Competitive+Programmer+;+Full+Stack+Developer+" />
