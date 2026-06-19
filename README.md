@@ -25,7 +25,7 @@
 
 <br/>
 
-## `01.` Introduction
+ Introduction
 
 ```python
 class ManishJadaun:
@@ -45,26 +45,26 @@ I'm a Computer Science undergraduate building a strong foundation across **softw
 
 <br/>
 
-## `02.` Current Focus
+ Current Focus
 
 <table>
 <tr>
 <td width="50%">
 
-🚀 &nbsp; Building production-grade **Full Stack Applications**
+ &nbsp; Building production-grade **Full Stack Applications**
 <br/><br/>
-🧠 &nbsp; Deepening expertise in **AI Engineering** — LLMs, RAG, Agentic AI
+ &nbsp; Deepening expertise in **AI Engineering** — LLMs, RAG, Agentic AI
 <br/><br/>
-⚡ &nbsp; Sharpening **DSA & Competitive Programming** fundamentals
+ &nbsp; Sharpening **DSA & Competitive Programming** fundamentals
 
 </td>
 <td width="50%">
 
-📚 &nbsp; Studying **System Design** — scalability, distributed systems
+ &nbsp; Studying **System Design** — scalability, distributed systems
 <br/><br/>
-🌍 &nbsp; Preparing systematically for **top tech opportunities (2029)**
+ &nbsp; Preparing systematically for **top tech opportunities (2029)**
 <br/><br/>
-🔁 &nbsp; Iterating through real projects, not tutorials
+ &nbsp; Iterating through real projects, not tutorials
 
 </td>
 </tr>
@@ -72,7 +72,7 @@ I'm a Computer Science undergraduate building a strong foundation across **softw
 
 <br/>
 
-## `03.` Tech Stack
+ Tech Stack
 
 <div align="center">
 
@@ -123,7 +123,7 @@ I'm a Computer Science undergraduate building a strong foundation across **softw
 
 <br/>
 
-## `04.` Competitive Programming
+ Competitive Programming
 
 <div align="center">
 
@@ -145,13 +145,13 @@ I'm a Computer Science undergraduate building a strong foundation across **softw
 
 <br/>
 
-## `05.` Featured Projects
+ Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 AI Career Assistant
+###  AI Career Assistant
 **Stack:** `React` `Node.js` `LLMs` `RAG`
 
 An AI-powered assistant that helps students navigate career decisions using retrieval-augmented generation over curated knowledge sources.
@@ -161,7 +161,7 @@ An AI-powered assistant that helps students navigate career decisions using retr
 </td>
 <td width="50%" valign="top">
 
-### 📋 Job Tracker
+###  Job Tracker
 **Stack:** `MERN` `MongoDB` `Express.js`
 
 A full stack application to track job applications, statuses, and deadlines with a clean, recruiter-style dashboard UI.
@@ -173,7 +173,7 @@ A full stack application to track job applications, statuses, and deadlines with
 <tr>
 <td width="50%" valign="top">
 
-### 📄 AI Resume Analyzer
+###  AI Resume Analyzer
 **Stack:** `Python` `LLMs` `NLP`
 
 Parses and scores resumes against job descriptions using LLM-driven analysis, surfacing actionable improvement suggestions.
@@ -195,7 +195,7 @@ A complete e-commerce platform with authentication, cart management, order flow,
 <tr>
 <td width="50%" valign="top">
 
-### 📊 CP Dashboard
+###  CP Dashboard
 **Stack:** `React` `REST APIs` `Charts`
 
 Aggregates LeetCode and Codeforces stats into a unified dashboard to visualize problem-solving progress over time.
@@ -205,7 +205,7 @@ Aggregates LeetCode and Codeforces stats into a unified dashboard to visualize p
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ More Projects
+###  More Projects
 **Stack:** `Various`
 
 Additional projects exploring system design concepts, agentic workflows, and backend architecture.
@@ -218,7 +218,7 @@ Additional projects exploring system design concepts, agentic workflows, and bac
 
 <br/>
 
-## `06.` GitHub Analytics
+ GitHub Analytics
 
 <div align="center">
 
@@ -234,7 +234,7 @@ Additional projects exploring system design concepts, agentic workflows, and bac
 
 <br/>
 
-## `07.` Developer Philosophy
+ Developer Philosophy
 
 <div align="center">
 
@@ -249,7 +249,7 @@ Additional projects exploring system design concepts, agentic workflows, and bac
 
 <br/>
 
-## `08.` Connect With Me
+ Connect With Me
 
 <div align="center">
 
